@@ -1,0 +1,7 @@
+{
+  "migrationId": "REPLACE-WITH-UUID-USE-uuidgen",
+  "source": "/ABSOLUTE/PATH/TO/extracted/old-client-data-dir",
+  "target": "/ABSOLUTE/PATH/TO/Trae-AppData-Dir",
+  "status": "pending",
+  "removeApp": false
+}
