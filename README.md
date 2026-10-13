@@ -25,13 +25,13 @@ Trae 跨设备上下文完整同步 Skill —— 让 AI 带你把 **项目代码
 把本仓库地址发给 Trae：
 
 ```
-帮我安装这个 skill：https://github.com/<你的用户名>/trae-cross-device-sync
+帮我安装这个 skill：https://github.com/Xyangshaun/trae-cross-device-sync
 ```
 
 ### 方式三：手动放置
 
 ```bash
-git clone https://github.com/<你的用户名>/trae-cross-device-sync.git ~/.trae-cn/skills/trae-cross-device-sync
+git clone https://github.com/Xyangshaun/trae-cross-device-sync.git ~/.trae-cn/skills/trae-cross-device-sync
 ```
 
 ## 使用
