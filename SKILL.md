@@ -1,6 +1,11 @@
 ---
 name: trae-cross-device-sync
 description: 指导把 Trae 上下文完整迁移到另一台设备——项目代码、AI 项目记忆、全局配置、逐字聊天库与密钥，覆盖 Win 转 Mac、Win 转 Win、Mac 转 Mac。当用户提到换电脑、换机、迁移 Trae 数据、同步聊天记录、跨设备同步上下文时使用。不适用于仅用 git 同步代码或常规项目部署的场景。
+slug: xyangshaun-trae-cross-device-sync
+displayName: Trae 跨设备上下文完整同步
+version: 1.0.0
+summary: 基于对 Trae 客户端内置官方迁移机制（migration-job.json + deeplink）的逆向与 Win→Mac 实测，把项目代码、AI 项目记忆、全局配置、逐字聊天记录、密钥五类数据完整迁移到新设备，六阶段交互式引导，强制先备份后动手。
+license: MIT
 ---
 
 # Trae 跨设备上下文同步
